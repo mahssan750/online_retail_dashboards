@@ -7,7 +7,7 @@ This project transforms 500,000+ raw retail transactions into a professional bus
 ## 1. Executive Overview Dashboard
 **Purpose:** A high-level command center for stakeholders to monitor business health at a glance.
 
-![Executive Dashboard](link_to_your_executive_image.png)
+![Executive Dashboard](dashboards/Executive Overview Dashboard.png)
 
 * **Key KPIs:** Tracks Total Revenue ($9.75M), Order Volume, and AOV ($410) with dynamic MoM growth indicators.
 * **Revenue Trends:** Visualizes monthly performance to identify macro-trends and seasonality.
