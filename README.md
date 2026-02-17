@@ -31,7 +31,7 @@ This project transforms 500,000+ raw retail transactions into a professional bus
 ## 3. Customer Analytics Dashboard
 **Purpose:** Understanding *who* the customers are using advanced segmentation logic.
 
-![Customer Analytics](link_to_your_customer_analytics_image.png)
+![Customer Analytics](dashboards/customer_analytics.png)
 
 * **RFM Analysis:** A "Whale Detector" scatter plot segmenting customers by Recency and Monetary value to identify VIPs vs. Churned users.
 * **Customer Health:** Tracks New vs. Returning customer rates and calculates Historic Customer Lifetime Value (CLV).
