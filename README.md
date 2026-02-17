@@ -19,7 +19,7 @@ This project transforms 500,000+ raw retail transactions into a professional bus
 ## 2. Sales & Time Intelligence Dashboard
 **Purpose:** Advanced temporal analysis to identify *when* customers shop and seasonal patterns.
 
-![Sales Time Intelligence](link_to_your_time_intelligence_image.png)
+![Sales Time Intelligence](dashboards/Sales_&_Time_Intelligence.png)
 
 * **Seasonal Heatmap:** A matrix visual highlighting peak sales periods (Day of Week vs. Month), revealing strong Q4 activity.
 * **Hourly Operations:** Analysis of sales by hour (6 AM – 8 PM) to optimize staffing and warehouse operations.
@@ -43,7 +43,7 @@ This project transforms 500,000+ raw retail transactions into a professional bus
 ## 4. Product Performance Dashboard
 **Purpose:** A deep dive into inventory efficiency and profit drivers.
 
-![Product Performance](link_to_your_product_performance_image.png)
+![Product Performance](dashboards/Product_Performance.png)
 
 * **Pareto Analysis (80/20 Rule):** A combo chart combining Revenue bars with a cumulative % line, identifying the "Vital Few" products that drive 80% of revenue.
 * **Product Matrix:** A cross-tabulation of top products against key countries, helping to tailor regional inventory.
